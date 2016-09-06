@@ -8,7 +8,7 @@
     <name>Custom Config Parameters</name>
     <description>Cordova Custom Config Parameters Plugin</description>
     <license>Apache 2.0</license>
-    <keywords>cordova,settings,customconfigparameters,dyd,ionic,secure,store data</keywords>
+    <keywords>cordova,settings,customconfigparameters,dyd,ionic,secure,store data,ecosystem:cordova</keywords>
 
 	<js-module src="www/customconfigparameters.js" name="CustomConfigParameters" >
 		<clobbers target="CustomConfigParameters" />

@@ -1,0 +1,34 @@
+{
+  "name": "cordova-plugin-customconfigparameters",
+  "version": "1.0.0",
+  "description": "Cordova Custom Config Parameters Plugin",
+  "cordova": {
+    "id": "cordova-plugin-customconfigparameters",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/experiencecommerce/cordova-plugin-customconfigparameters.git"
+  },
+  "keywords": [
+    "cordova",
+    "settings",
+    "customconfigparameters",
+    "dyd",
+    "ionic",
+    "secure",
+    "store data",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Deepak Yadav",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/experiencecommerce/cordova-plugin-customconfigparameters/issues"
+  },
+  "homepage": "https://github.com/experiencecommerce/cordova-plugin-customconfigparameters#readme"
+}
