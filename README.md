@@ -1,4 +1,3 @@
-
 # Cordova Custom Config Parameters Plugin
 
 
