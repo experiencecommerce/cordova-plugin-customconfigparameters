@@ -4,7 +4,7 @@
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="cordova-plugin-customconfigparameters"
-    version="1.0.0">
+    version="2.0.0">
     <name>Custom Config Parameters</name>
     <description>Cordova Custom Config Parameters Plugin</description>
     <license>Apache 2.0</license>
